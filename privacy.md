@@ -2,8 +2,8 @@
 This Privacy Policy applies to all of the services and websites offered by Narrable, LLC ("Narrable").  This policy does not apply to the practices of third parties that Narrable does not own or control, or to individuals that Narrable does not employ or manage.  By visiting the Narrable website, you are accepting the practices outlined in this policy.  If you have any questions about this policy, please feel free to contact Narrable through its website, email privacy@narrable.com or write to:
 
 Narrable - Privacy Matters
-5100 E Skelly Drive, Suite 1040
-Tulsa, OK 74135
+11 East MB Brady St
+Tulsa, OK 74103
 
 ## Information Collected by Narrable
 Narrable collects information that it believes relevant to providing and improving Narrable's services and websites, including information necessary to provide you with a customized and efficient experience. The types of information Narrable may collect include:
