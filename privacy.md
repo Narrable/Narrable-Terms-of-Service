@@ -57,8 +57,6 @@ You can also access certain features of our Site using Social Networking Platfor
 
 We do not control the privacy practices of the Social Networking Platforms and sign-in services you choose to use and this privacy policy does not cover their practices, you should visit the privacy policies of any Social Networking Platform or sign-in service you choose to use to understand their practices.
 
-## 
-
 ## Changes to this Privacy Policy
 Narrable may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Narrable website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
