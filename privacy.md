@@ -50,6 +50,15 @@ When we use the term "Personal Information" in this Privacy Policy, we are refer
 
 If you are a student registrant and your parent or guardian has signed up for Narrable with an Access Code provided by your teacher, you understand that your parent or guardian can view all information within or associated with your Narrable account, including, without limitation, messages between you and your teacher and grades you received on assignments.
 
+## Social Networking Platforms
+We may allow you to connect and share information with certain social networking platforms (“SOCIAL NETWORKING PLATFORMS”) (e.g., a Facebook application). By choosing to use these Social Networking Platforms, you allow Instructure to share information with the Social Networking Platform. For example, you might use an application to publish Instructure related notices on your Facebook wall. If you do not want us to continue to provide your information to the Social Networking Platform, you may change your privacy settings in the Social Networking Platform.
+
+You can also access certain features of our Site using Social Networking Platforms. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and other personal information to pre-populate an application.
+
+We do not control the privacy practices of the Social Networking Platforms and sign-in services you choose to use and this privacy policy does not cover their practices, you should visit the privacy policies of any Social Networking Platform or sign-in service you choose to use to understand their practices.
+
+## 
+
 ## Changes to this Privacy Policy
 Narrable may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Narrable website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
