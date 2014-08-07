@@ -1,14 +1,20 @@
 # Terms of Service
 
-The web pages available at Narrable.com and all linked pages (“Site”), are owned and operated by Narrable, LLC (“Narrable”), an Oklahoma limited liability company. All access to the Site is subject to the Terms of Service ("Terms") described here.
+The web pages available at Narrable.com and all linked pages (“Site”), are owned and operated by Narrable, LLC (“Narrable”), an Oklahoma limited liability company. All access to the Site is subject to the Terms of Service ("Terms") described here. 
 
-Please read the Terms carefully before using the Site. By accessing the Site, viewing any content or using any services available on the Site (as defined below), you are agreeing to be bound by the Terms, which together with our  [Privacy Policy](https://github.com/Narrable/Narrable-Terms-of-Service/blob/master/privacy.md), governs our relationship with you in relation to the site. If you disagree with any part of the terms then you may not access the site.
+The following applies to terminology used in the Terms: "Company" "our" "us" 
+
+## Acceptance of Terms
+Please read the Terms carefully before using the Site. By accessing the Site, viewing any content or using any services available on the Site (as defined below), you are agreeing to be bound by the Terms, which together with our  [Privacy Policy](https://github.com/Narrable/Narrable-Terms-of-Service/blob/master/privacy.md), governs our relationship with you in relation to the Site. **By using the Site, you are deemed to have read and agreed to the Terms.** If you disagree with any Term(s), do not use the Site.
+
+## Changes in Terms
+Narrable reserve the right to modify the Terms at any time. Changes to the Terms become effective immediately upon publication of the changes to the Terms. <!-- How will changes to the Terms be indicated? rev. numbers?, dated? Think through this and add language.  --> Continued use of the Site following a change in Terms indicates acceptance of the changed Terms. 
 
 ## Description of Service
-Your access to and use of the Site may be interrupted from time to time as a result of equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of Narrable. Narrable reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any Content at any time at its sole discretion and without prior notice. Narrable may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. The Site should not be used or relied upon for storage of your photographs and images and you are directed to retain your own copies of all content posted on the Site.
+Your access to and use of the Site may be interrupted from time to time as a result of events including without limitation to: equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of Narrable. Narrable reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any content at any time at its sole discretion and without prior notice. Narrable may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. Narrable will not be responsible for storage of your photographs and images within the Site. You are directed to retain your own copies of all content posted on the Site.
 
 ## Registration
-As a condition to using Services, you are required to open an account with Narrable and select a password and username, and to provide registration information. The registration information you provide must be accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your Narrable account.
+As a condition to using the Services, you are required to open an account with Narrable, select a password and username, and to provide registration information. The registration information you provide must be accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your Narrable account.
 
 You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trade mark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.
 
