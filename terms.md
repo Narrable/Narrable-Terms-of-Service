@@ -1,4 +1,5 @@
 # Terms of Service
+As of September 1, 2014
 
 The web pages available at Narrable.com and all linked pages (“Site”), are owned and operated by Narrable, LLC (“Narrable”), an Oklahoma limited liability company. All access to the Site is subject to the Terms of Service ("Terms") described here. 
 
@@ -8,15 +9,20 @@ The following applies to terminology used in the Terms: "Company" "our" "us" all
 Please read the Terms carefully before using the Site. By accessing the Site, viewing any content or using any services available on the Site (as defined below), you are agreeing to be bound by the Terms, which together with our  [Privacy Policy](https://github.com/Narrable/Narrable-Terms-of-Service/blob/master/privacy.md), governs our relationship with you in relation to the Site. **By using the Site, you are agreeing to be bound by the Terms.** If you disagree with any Term(s), do not use the Site.
 
 ## Changes in Terms
-Narrable reserves the right to modify the Terms at any time. Changes to the Terms become effective immediately upon publication. <!-- How will changes to the Terms be indicated? rev. numbers?, dated? Think through this and add language.  --> Continued use of the Site following a change in Terms indicates acceptance and agreement to abide by the Terms. 
+Narrable reserves the right to modify the Terms at any time. Changes to the Terms become effective immediately upon publication. Continued use of the Site following a change in Terms indicates acceptance and agreement to abide by the Terms. 
 
 ## Description of Service
 Your access to and use of the Site may be interrupted from time to time as a result of events including without limitation to: equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of Narrable. Narrable reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or to remove any content at any time at its sole discretion and without prior notice. Narrable may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. Narrable will not be responsible for storage of your photographs and images within the Site. You are directed to retain your own copies of all content posted on the Site.
 
 <!-- May want to include a section of definitions. E.g. Teacher, User, Student, Course -->
+User: All
+Free Accounts
+Teacher Accounts - anyone who registers a class
+Student Accounts - anyone who joins a class
+Classes
 
 ## Registration
-Before using the Services, you must (1) open an account with Narrable, (2) select a password and username, and (3) provide registration information. <!-- Need to define "registration information?" --> The registration information you provide must be accurate, complete, and current at all times. Failure to provide satisfactory registration information is a breach of the Terms, which may result in immediate termination of your Narrable account.
+Before using the Services, you must (1) open an account with Narrable, (2) select a password and username, and (3) provide registration information such as name and email. The registration information you provide must be accurate, complete, and current at all times. Failure to provide satisfactory registration information is a breach of the Terms, which may result in immediate termination of your Narrable account.
 
 You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trade mark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.
 
@@ -52,7 +58,7 @@ As a condition of use, you promise not to use the Services for any purpose that 
 8. With the exception of accessing RSS feeds, you will not use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure; (ii) interfere or attempt to interfere with the proper working of the Site or any activities conducted on the Site; or (iii) bypass any measures we may use to prevent or restrict access to the Site;
 9. To artificially inﬂate or alter vote counts, blog counts, comments, or any other Service or for the purpose of giving or receiving money or other compensation in exchange for votes, or for participating in any other organized effort that in any way artificially alters the results of Services;
 10. To advertise to, or solicit, any user to buy or sell any products or services, or to use any information obtained from the Services in order to contact, advertise to, solicit, or sell to any user without their prior explicit consent;
-11. To promote or sell Content of another person
+11. To promote or sell Content of another person; and
 12. To sell or otherwise transfer your profile.
 
 To report a suspected abuse of the Site or a breach of the Terms (other than relating to copyright infringement which is addressed under “COPYRIGHT COMPLAINTS” below) please send written notice to Narrable at email: [support@Narrable.com](mailto:support@narrable.com).
@@ -65,9 +71,9 @@ Please read this section carefully before posting, uploading, or otherwise submi
 In consideration of Narrable’s agreement to allow you to post Content to the Site and Narrable’s agreement to publish such Content and for other valuable consideration the receipt and sufficiency of which are hereby expressly and irrevocably acknowledged, you agree with Narrable as follows:
 
 1. You acknowledge that:
-  1. By uploading your photographic, graphic or audio works ("Content") to Narrable you retain <!-- Do you mean "retain" or "rightfully own" with the permission to grant license to Narrable to use as per 1.2 below? --> all rights to those works that you possessed prior to uploading.
+  1. By uploading your photographic, graphic or audio works ("Content") to Narrable you rightfully own and retain all rights to those works that you possessed prior to uploading.
   2. By posting Content to the Site you hereby grant to Narrable a non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content in connection with the Services. This license will exist for the period during which the Content is posted on the Site and will automatically terminate upon the removal of the Content from the Site;
-  3. The license granted to Narrable includes the right to use your Content fully or partially for any purpose and to distribute and redistribute your Content to other parties, web-sites, applications, and other entities, provided such Content is attributed to you in accordance with the proper credits (i.e. username, profile picture, photo title, descriptions, tags, and other accompanying information) if any and as appropriate, all as submitted to Narrable by you; <!--This language is vague as to whether the User affirms they own the right to or have permission to upload X Content. All content should have attribution to the user only without the qualification of "as appropriate" because if the credit/attribution to the user would not be appropriate, then they are upload un-licensed or un-disclosed content. We should chat about it. -->
+  3. The license granted to Narrable includes the right to use your Content fully or partially for any purpose and to distribute and redistribute your Content to other parties, web-sites, applications, and other entities, provided such Content is attributed to you in accordance with the proper credits (i.e. username, profile picture, photo title, descriptions, tags, and other accompanying information) all as submitted to Narrable by you; 
   4. Narrable uses industry recognized software and measures to restrict the ability of users and visitors to the Site to make high resolution copies of Content posted on the Site. Notwithstanding its efforts, Narrable makes no representation or warranty that Content posted on the Site will not be unlawfully copied without your consent. Narrable does not restrict the ability of users and visitors to the Site to make low resolution or ‘thumbnail’ copies of Content posted on the Site and you hereby expressly authorize Narrable to permit users and visitors to the Site to make such low resolution copies of your Content; and
   5. Subject to the terms of the foregoing license, you retain full ownership or other rights in your Content and any intellectual property rights or other proprietary rights associated with your Content. 
 2. You represent and warrant that: 
