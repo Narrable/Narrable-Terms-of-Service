@@ -14,12 +14,12 @@ Narrable reserves the right to modify the Terms at any time. Changes to the Term
 ## Description of Service
 Your access to and use of the Site may be interrupted from time to time as a result of events including without limitation to: equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of Narrable. Narrable reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or to remove any content at any time at its sole discretion and without prior notice. Narrable may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. Narrable will not be responsible for storage of your photographs and images within the Site. You are directed to retain your own copies of all content posted on the Site.
 
-<!-- May want to include a section of definitions. E.g. Teacher, User, Student, Course -->
-User: All
-Free Accounts
-Teacher Accounts - anyone who registers a class
-Student Accounts - anyone who joins a class
-Classes
+## Definitions
+  * User: Any person who registers and uses the Site
+  * Free Account: A user not belonging to a Classroom, School or District
+  * Teacher: A user who creates or manages a Classroom
+  * Student: A user who joins or is added to a Classroom
+  * Classroom: A group of students managed by a teacher. Belongs to a School
 
 ## Registration
 Before using the Services, you must (1) open an account with Narrable, (2) select a password and username, and (3) provide registration information such as name and email. The registration information you provide must be accurate, complete, and current at all times. Failure to provide satisfactory registration information is a breach of the Terms, which may result in immediate termination of your Narrable account.
